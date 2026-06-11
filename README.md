@@ -12,4 +12,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Baqirrizvidev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Java developer focused on building LLM-powered applications on the JVM — tool calling, agents, and AI integrations.
+
+### 🛠️ Recent open-source contributions
+- **[Spring AI #6263](https://github.com/spring-projects/spring-ai/pull/6263)** — Added direct `ToolCallback` / `ToolCallbackProvider` support to `ChatClient.tools()`, with null-element guards and simplified call sites. Reviewed and merged by a core maintainer.
+- **[ansvisor #74](https://github.com/ansvisor/ansvisor)** — Exposed content opportunities through MCP tools and REST endpoints.
+
+### 🔧 Tech I work with
+`Java` · `Spring` · `Spring AI` · `LangChain4j` · `MCP` · `REST APIs`
+
